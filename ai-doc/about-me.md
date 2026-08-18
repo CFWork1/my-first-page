@@ -2,7 +2,14 @@
 
 Working name on the page: **Lena** (placeholder — replace with your real name before you publish).
 
-This file is the source of the voice and facts used on the site. If you change the story here, update `index.html` to match.
+This file is the source of the voice and facts used on the site. If you change the story here, update `index.html` to match. Stack, folders, and hosting live in [project-rules.md](project-rules.md).
+
+| This file | On the page |
+|-----------|-------------|
+| Snapshot + short version | Hero (`#top`) |
+| How I come across | About traits (`#about`) |
+| How I am with people | Hello (`#hello`) |
+| Words I try to live by | Blockquote in `#hello` |
 
 ---
 
