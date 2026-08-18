@@ -2,7 +2,7 @@
 
 Working name on the page: **Lena** (placeholder — replace with your real name before you publish).
 
-This file is the source of the voice and facts used on the site. If you change the story here, update `src/index.html` to match.
+This file is the source of the voice and facts used on the site. If you change the story here, update `index.html` to match.
 
 ---
 
